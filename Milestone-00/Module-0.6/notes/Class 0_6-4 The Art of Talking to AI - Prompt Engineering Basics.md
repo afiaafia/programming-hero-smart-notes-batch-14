@@ -1,6 +1,6 @@
 # 📚 Programming Hero - Smart Notes
 
-Module 0 | Class 0_6-4
+# Class 0_6-4
 
 # 🎯 The Art of Talking to AI - Prompt Engineering Basics
 
