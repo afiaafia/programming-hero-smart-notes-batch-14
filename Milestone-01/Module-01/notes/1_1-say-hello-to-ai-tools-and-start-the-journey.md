@@ -14,7 +14,7 @@ Before starting this lesson, make sure you have:
 
 # 👋 Class 1_1: Say Hello to AI Tools and Start the Journey
 
-> **Class Duration:** *(Add the duration here)*
+> **Class Duration:** *(13 minute)*
 
 ---
 
