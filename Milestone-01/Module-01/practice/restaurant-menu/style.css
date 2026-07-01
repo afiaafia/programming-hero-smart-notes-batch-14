@@ -1,1 +1,254 @@
+/* ==========================
+   Global Styles
+========================== */
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e0d667;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+section {
+    padding: 40px;
+}
+
+h1,
+h2,
+h3 {
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+
+
+
+
+/* ==========================
+   Header Section
+========================== */
+
+header {
+    background-color: #ff8c42;
+    padding: 20px;
+}
+
+header h1 {
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+/* ==========================
+   Hero Section
+========================== */
+
+#hero {
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 50px;
+}
+
+#hero h2 {
+    color: #333333;
+}
+
+#hero p {
+    color: #555555;
+}
+
+button {
+    background-color: #ff8c42;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+h1 img {
+    vertical-align: middle;
+    margin-top: 4px;
+}
+
+
+
+
+/* ==========================
+   Menu Section
+========================== */
+
+#menu {
+    padding: 40px;
+}
+
+#menu h2 {
+    text-align: center;
+    color: #ff8c42;
+}
+
+#menu h3 {
+    color: #333333;
+    margin-top: 25px;
+}
+
+#menu ul {
+    margin-left: 25px;
+}
+
+#menu li {
+    margin-bottom: 12px;
+}
+
+#menu strong {
+    color: #ff8c42;
+}
+
+#menu em {
+    color: #666666;
+}
+
+#menu section {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #dddddd;
+    box-shadow: 2px 2px 8px lightgray;
+}
+
+
+
+/* ==========================
+   Today's Special Offer
+========================== */
+
+#offer {
+    background-color: #f0eae2;
+    padding: 40px;
+    margin: 40px;
+    border: 1px solid #dddddd;
+    box-shadow: 2px 2px 8px lightgray;
+}
+
+#offer h2 {
+    color: #ff8c42;
+    text-align: center;
+}
+
+#offer h3 {
+    color: #333333;
+    margin-top: 20px;
+}
+
+#offer p {
+    color: #555555;
+    margin-bottom: 15px;
+}
+
+#offer del {
+    color: gray;
+}
+
+#offer strong {
+    color: green;
+}
+
+#offer img {
+
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+
+/* ==========================
+   Favorite Items Section
+========================== */
+
+#favorites {
+    background-color: #f0eae2;
+    padding: 40px;
+    margin: 40px;
+    border: 1px solid #dddddd;
+    box-shadow: 2px 2px 8px lightgray;
+}
+
+#favorites h2 {
+    text-align: center;
+    color: #ff8c42;
+}
+
+#favorites p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#favorites form {
+    margin-top: 20px;
+}
+
+#favorites label {
+    font-size: 18px;
+}
+
+#favorites input {
+    margin-right: 10px;
+}
+
+
+/* ==========================
+   Footer Section
+========================== */
+
+footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+footer h2 {
+    color: #ff8c42;
+    margin-bottom: 15px;
+}
+
+footer p {
+    margin-bottom: 10px;
+}
+
+footer p:last-child {
+    margin-bottom: 0;
+}
