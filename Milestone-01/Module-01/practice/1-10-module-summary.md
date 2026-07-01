@@ -1,3 +1,7 @@
+# 📚 Module 1 Revision
+
+## 📌 HTML Semantic Tags
+
 | Tag         | Purpose                                                      |
 | ----------- | ------------------------------------------------------------ |
 | `<header>`  | Represents the introductory section of a webpage or section. |
@@ -8,6 +12,9 @@
 | `<aside>`   | Contains supplementary or sidebar content.                   |
 | `<footer>`  | Represents the footer of a webpage or section.               |
 
+---
+
+## 📌 Text Formatting Tags
 
 | Tag        | Purpose                                  |
 | ---------- | ---------------------------------------- |
@@ -22,7 +29,9 @@
 | `<del>`    | Deleted text.                            |
 | `<ins>`    | Inserted text.                           |
 
+---
 
+## 📌 Lists
 
 | Tag    | Purpose        |
 | ------ | -------------- |
@@ -30,6 +39,9 @@
 | `<ol>` | Ordered List   |
 | `<li>` | List Item      |
 
+---
+
+## 📌 Media Tags
 
 | Tag       | Purpose        |
 | --------- | -------------- |
@@ -37,6 +49,9 @@
 | `<audio>` | Embed audio    |
 | `<video>` | Embed video    |
 
+---
+
+## 📌 Forms
 
 | Tag          | Purpose                   |
 | ------------ | ------------------------- |
@@ -50,6 +65,9 @@
 | `<fieldset>` | Group related form fields |
 | `<legend>`   | Title of a fieldset       |
 
+---
+
+## 📌 Common Input Types
 
 | Type     | Purpose             |
 | -------- | ------------------- |
@@ -66,7 +84,9 @@
 | submit   | Submit form         |
 | reset    | Reset form          |
 
+---
 
+## 📌 CSS Concepts Covered
 
 | Topic          | Purpose            |
 | -------------- | ------------------ |
@@ -78,3 +98,4 @@
 | Box Model      | Layout structure   |
 | Box Shadow     | Shadow effect      |
 | Width & Height | Element size       |
+
