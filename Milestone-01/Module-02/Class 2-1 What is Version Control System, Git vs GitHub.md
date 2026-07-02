@@ -25,7 +25,28 @@
 
 ---
 
+
+
+# 📚 Programming Hero - Smart Notes
+
+## Class 2-1
+
+# 🚀 What is Version Control System, Git vs GitHub
+
+> **Class Duration:** 12 Minutes
+
+---
+
 # 📖 What You'll Learn
+
+In this class, you'll learn:
+
+* Why Git was created
+* Problems developers faced before Git
+* What a Version Control System (VCS) is
+* Why Version Control is important
+* Why developers use Git
+* The core benefits of Version Control
 
 ---
 
@@ -235,6 +256,8 @@ Many beginners think:
 Git's primary purpose is **Version Control**.
 
 Uploading code to GitHub is just one of its many uses.
+
+---
 
 
 
