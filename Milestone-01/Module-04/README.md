@@ -12,6 +12,24 @@ By the end of this module, you'll have the knowledge to create clean, modern, an
 
 ---
 
+# 📑 Table of Contents
+
+- [📚 Module Overview](#-module-overview)
+- [🗂️ Module Structure](#️-module-structure)
+- [📖 Classes Included](#-classes-included)
+- [🎯 Learning Objectives](#-learning-objectives)
+- [🛠️ Technologies Covered](#️-technologies-covered)
+- [🌳 Complete Module Mind Map](#-complete-module-mind-map)
+- [⚖️ Flexbox vs CSS Grid](#️-flexbox-vs-css-grid)
+- [🌍 Real-World Applications](#-real-world-applications)
+- [🎯 Practice Ideas](#-practice-ideas)
+- [📚 Recommended Resources](#-recommended-resources)
+- [🏆 Module Achievement](#-module-achievement)
+- [🚀 What's Next?](#-whats-next)
+- [🎯 Final Thoughts](#-final-thoughts)
+
+---
+
 # 📚 Module Overview
 
 This module covers:
@@ -271,24 +289,6 @@ These skills will help you make your websites look great on **mobile, tablet, an
 Module 4 introduces the core layout techniques used in almost every modern website. Keep practicing the examples, experiment with your own designs, and don't be afraid to explore beyond the course.
 
 **The more you build, the more confident you'll become. Happy Coding! 🚀**
-
----
-
-# 📑 Table of Contents
-
-- [📚 Module Overview](#-module-overview)
-- [🗂️ Module Structure](#️-module-structure)
-- [📖 Classes Included](#-classes-included)
-- [🎯 Learning Objectives](#-learning-objectives)
-- [🛠️ Technologies Covered](#️-technologies-covered)
-- [🌳 Complete Module Mind Map](#-complete-module-mind-map)
-- [⚖️ Flexbox vs CSS Grid](#️-flexbox-vs-css-grid)
-- [🌍 Real-World Applications](#-real-world-applications)
-- [🎯 Practice Ideas](#-practice-ideas)
-- [📚 Recommended Resources](#-recommended-resources)
-- [🏆 Module Achievement](#-module-achievement)
-- [🚀 What's Next?](#-whats-next)
-- [🎯 Final Thoughts](#-final-thoughts)
 
 ---
 
