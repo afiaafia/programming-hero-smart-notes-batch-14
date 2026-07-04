@@ -1,19 +1,18 @@
-🎨 Module 3: CSS Fundamentals
+# 🎨 Module 3: CSS Fundamentals
 
-Welcome to Module 3 of my Programming Hero Web Development Journey! 🚀
+Welcome to **Module 3** of my **Programming Hero Web Development Journey!** 🚀
 
-In this module, I learned the fundamentals of CSS (Cascading Style Sheets) and discovered how CSS transforms plain HTML into beautiful, responsive, and visually appealing webpages.
+In this module, I learned the fundamentals of **CSS (Cascading Style Sheets)** and discovered how CSS transforms plain HTML into beautiful, responsive, and visually appealing webpages.
 
-From basic styling to the CSS Box Model and Display properties, this module lays the foundation for building modern websites.
+From basic styling to the **CSS Box Model** and **Display** properties, this module lays the foundation for building modern websites.
 
 ---
 
-📚 Classes Covered
+# 📚 Classes Covered
 
-📖 Class 3-1
+## 📖 Class 3-1: CSS Basics - Inline, Internal & External CSS
 
-CSS Basics: Inline, Internal & External CSS
-
+### Topics
 - Introduction to CSS
 - Types of CSS
 - Linking External CSS
@@ -21,32 +20,29 @@ CSS Basics: Inline, Internal & External CSS
 
 ---
 
-📖 Class 3-2
+## 📖 Class 3-2: CSS Selectors - Tag & Class
 
-CSS Selectors: Tag & Class
-
+### Topics
 - Tag Selector
 - Class Selector
 - Applying styles using selectors
 
 ---
 
-📖 Class 3-3
+## 📖 Class 3-3: CSS Selectors - ID, Universal & Background Color
 
-CSS Selectors: ID, Universal & Background Color
-
+### Topics
 - ID Selector
 - Universal Selector
 - Background Color
-- Selector priority
+- Selector Priority
 
 ---
 
-📖 Class 3-4
+## 📖 Class 3-4: CSS Measuring Units & Typography
 
-CSS Measuring Units & Typography
-
-- CSS Units ("px", "%", "em", "rem")
+### Topics
+- CSS Units (`px`, `%`, `em`, `rem`)
 - Font Family
 - Font Size
 - Font Weight
@@ -54,10 +50,9 @@ CSS Measuring Units & Typography
 
 ---
 
-📖 Class 3-5
+## 📖 Class 3-5: Advanced CSS Selectors
 
-Advanced CSS Selectors
-
+### Topics
 - Child Selector
 - Descendant Selector
 - Grouping Selector
@@ -66,10 +61,9 @@ Advanced CSS Selectors
 
 ---
 
-📖 Class 3-6
+## 📖 Class 3-6: Border, Margin, Padding & CSS Box Model
 
-Border, Margin, Padding & CSS Box Model
-
+### Topics
 - Border Properties
 - Border Radius
 - Margin
@@ -78,23 +72,21 @@ Border, Margin, Padding & CSS Box Model
 
 ---
 
-📖 Class 3-7
+## 📖 Class 3-7: Display & Visibility
 
-Display & Visibility
-
+### Topics
 - Display Property
 - Block Elements
 - Inline Elements
 - Inline-block
 - Visibility
-- "display: none"
+- `display: none`
 
 ---
 
-📖 Class 3-8
+## 📖 Class 3-8: Box Shadow & Background Image
 
-Box Shadow & Background Image
-
+### Topics
 - Box Shadow
 - Background Image
 - Background Repeat
@@ -105,10 +97,9 @@ Box Shadow & Background Image
 
 ---
 
-📖 Class 3-9
+## 📖 Class 3-9: Module Summary & Practice
 
-Module Summary & Practice
-
+### Topics
 - Module Revision
 - Practice Tasks
 - Mind Map
@@ -116,11 +107,11 @@ Module Summary & Practice
 
 ---
 
-🛠️ Skills Gained
+# 🛠️ Skills Gained
 
 By completing this module, I learned how to:
 
-- Apply CSS using Inline, Internal, and External methods.
+- Apply CSS using **Inline**, **Internal**, and **External** methods.
 - Select HTML elements using different CSS selectors.
 - Style text with fonts and typography properties.
 - Use advanced selectors for precise styling.
@@ -133,8 +124,9 @@ By completing this module, I learned how to:
 
 ---
 
-🌳 Module Roadmap
+# 🌳 Module Roadmap
 
+```text
 Module 3
 │
 ├── CSS Basics
@@ -166,22 +158,23 @@ Module 3
 └── CSS Effects
     ├── Box Shadow
     └── Background Image
+```
 
 ---
 
-📈 Progress
+# 📈 Progress
 
 - ✅ Module 1 Completed
 - ✅ Module 2 Completed
 - ✅ Module 3 Completed
 
-🎉 Ready for Module 4: CSS Layout (Flexbox)!
+🎉 **Ready for Module 4: CSS Layout (Flexbox)!**
 
 ---
 
-⭐ Repository Purpose
+# ⭐ Repository Purpose
 
-These notes are created as part of my Programming Hero Web Development Journey.
+These notes are created as part of my **Programming Hero Web Development Journey**.
 
 The goal of this repository is to:
 
@@ -192,4 +185,4 @@ The goal of this repository is to:
 
 ---
 
-Happy Coding! 💙
+## 💙 Happy Coding!
