@@ -2,10 +2,6 @@
 
 ## Class 5-8
 
-# 🎯 Font Awesome Icons - Introduction & Best Practices
-
-> Icons make a website more engaging and easier to understand. Instead of using only text, modern websites use icons to communicate actions and information quickly.
-
 ---
 
 # 📑 Complete Class Table of Contents
@@ -16,6 +12,12 @@
 - [🏆 Practice Task & Effective Learning Strategy](#-practice-task--effective-learning-strategy)
 - [🚀 Website Deployment with GitHub Pages](#-website-deployment-with-github-pages)
 - [🏆 Professional Portfolio Checklist & Module 5 Wrap-up](#-professional-portfolio-checklist--module-5-wrap-up)
+
+---
+
+# 🎯 Font Awesome Icons - Introduction & Best Practices
+
+> Icons make a website more engaging and easier to understand. Instead of using only text, modern websites use icons to communicate actions and information quickly.
 
 ---
 
