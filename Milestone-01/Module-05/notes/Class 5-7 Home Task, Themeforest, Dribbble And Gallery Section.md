@@ -10,7 +10,7 @@
 
 # 📑 Complete Table of Contents
 
-- [🖼️ Gallery Section Introduction & HTML Structure](#-gallery-section-introduction--html-structure)
+- [🌟 What is a Gallery Section?](#-what-is-a-gallery-section)
 - [🏗️ Building the Gallery Layout](#-building-the-gallery-layout)
 - [🎨 Design Inspiration: ThemeForest, Dribbble & Other UI Resources](#-design-inspiration-themeforest-dribbble--other-ui-resources)
 - [🎨 Gallery Design Best Practices & UI/UX Principles](#-gallery-design-best-practices--uiux-principles)
