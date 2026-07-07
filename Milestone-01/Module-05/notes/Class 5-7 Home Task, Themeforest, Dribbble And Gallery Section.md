@@ -1565,4 +1565,3 @@ In this class, you learned:
 > **Don't build a portfolio just to complete a course. Build a portfolio that you're proud to share with the world.**
 
 ---
-h
