@@ -11,7 +11,7 @@
 # 📑 Table of Contents
 
 - [📖 What You'll Learn](#-what-youll-learn)
-- [🌟 What is the "What I Do" Section](#what-is-the-"what-i-do"-section)
+- [🌟 What is the "What I Do" Section](#what-is-the-what-i-do-section)
 - [🃏 Building Skill Cards & Content Structure](#-building-skill-cards--content-structure)
 - [🎨 Styling the Skills Section & Card Layout](#-styling-the-skills-section--card-layout)
 - [🚀 Skill Section Best Practices & Professional Card Design](#-skill-section-best-practices--professional-card-design)
