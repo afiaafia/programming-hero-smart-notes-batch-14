@@ -2,10 +2,6 @@
 
 # 🖼️ Class 5-7: Home Task, ThemeForest, Dribbble & Gallery Section
 
-## 📖 Part 1 — Gallery Section Fundamentals
-
-> **Goal:** Learn what a Gallery Section is, why it is important, and how to build a clean HTML structure before applying CSS.
-
 ---
 
 # 📑 Table of Contents
@@ -17,6 +13,12 @@
 - [🚀 Part 5 — Professional Workflow, Design Thinking & Class Summary](#-part-5--professional-workflow-design-thinking--class-summary)
 - [📚 Class Summary](#-class-summary)
 - [🏁 Final Takeaways](#-final-takeaways)
+
+---
+
+## 📖 Part 1 — Gallery Section Fundamentals
+
+> **Goal:** Learn what a Gallery Section is, why it is important, and how to build a clean HTML structure before applying CSS.
 
 ---
 
