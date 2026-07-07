@@ -8,13 +8,13 @@
 
 ---
 
-# 📑 Complete Table of Contents
+# 📑 Table of Contents
 
-- [🌟 What is a Gallery Section?](#-what-is-a-gallery-section)
-- [🏗️ Building the Gallery Layout](#-building-the-gallery-layout)
-- [🎨 Design Inspiration: ThemeForest, Dribbble & Other UI Resources](#-design-inspiration-themeforest-dribbble--other-ui-resources)
-- [🎨 Gallery Design Best Practices & UI/UX Principles](#-gallery-design-best-practices--uiux-principles)
-- [🚀 Professional Developer Workflow & Design Thinking](#-professional-developer-workflow--design-thinking)
+- [📖 Part 1 — Gallery Section Introduction & HTML Structure](./part-1.md)
+- [🏗️ Part 2 — Building the Gallery Layout](./part-2.md)
+- [🎨 Part 3 — Design Inspiration: ThemeForest, Dribbble & Other UI Resources](./part-3.md)
+- [✨ Part 4 — Gallery Design Best Practices & UI/UX Principles](./part-4.md)
+- [🚀 Part 5 — Professional Developer Workflow & Design Thinking](./part-5.md)
 
 ---
 
