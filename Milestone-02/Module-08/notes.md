@@ -1269,6 +1269,8 @@ These concepts will be used frequently in upcoming topics like loops, functions,
 
 ---
 
+<a id="best-practices"></a>
+
 # 💡 Best Practices
 
 - ✅ Prefer `===` and `!==` over `==` and `!=`.
@@ -1280,6 +1282,8 @@ These concepts will be used frequently in upcoming topics like loops, functions,
 - ✅ Choose the right conditional statement for the problem.
 
 ---
+
+<a id="common-beginner-mistakes"></a>
 
 # 🚫 Common Beginner Mistakes
 
@@ -1376,6 +1380,8 @@ let result =
 
 ---
 
+<a id="practice-tasks"></a>
+
 # 🎯 Practice Tasks
 
 ## Task 1
@@ -1459,6 +1465,8 @@ Invalid Credentials
 
 ---
 
+<a id="interview-questions"></a>
+
 # ❓ Interview Questions
 
 ### 1. What is a conditional statement?
@@ -1523,6 +1531,8 @@ Use `switch` when comparing a single variable against multiple fixed values.
 Execution continues to the next case. This behavior is called **Fall Through**.
 
 ---
+
+<a id="whats-next"></a>
 
 # 📚 What's Next?
 
